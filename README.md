@@ -1,2 +1,2 @@
 # concertkeeper
-A project that saves the concerts you've gone or are going to, and details about it in a database and allows you to view it.
+ConcertKeeper is a full-stack concert journaling app that allows users to log past and upcoming concerts, save venue notes, track setlists, record merch purchases, estimate attendance, and preserve memories from live music events.
