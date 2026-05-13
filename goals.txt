@@ -6,3 +6,5 @@ Version 2: photos and videos
 Version 3: accounts and login
 Version 4: social sharing
 Version 5: venue and artist pages
+
+Milestone 1: Make the backend run
