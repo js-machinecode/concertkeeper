@@ -1,2 +1,8 @@
 Create a FastAPI app that returns:
 "Welcome to ConcertKeeper"
+
+Version 1: concert logs only
+Version 2: photos and videos
+Version 3: accounts and login
+Version 4: social sharing
+Version 5: venue and artist pages
