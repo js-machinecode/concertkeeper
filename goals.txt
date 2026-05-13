@@ -7,4 +7,23 @@ Version 3: accounts and login
 Version 4: social sharing
 Version 5: venue and artist pages
 
-Milestone 1: Make the backend run
+Milestone 1: Backend startup
+- Create FastAPI backend
+- Add home route
+- Add test concerts route
+- Run backend locally
+- View API docs
+
+Milestone 2: Concert model
+- Create a concert data structure
+- Add POST route to create concerts
+- Add GET route for one concert
+
+Milestone 3: Frontend startup
+- Create React frontend
+- Build homepage
+- Display concerts from backend
+
+Milestone 4: Database
+- Add SQLite database
+- Save concerts permanently
